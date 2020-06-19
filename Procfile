@@ -1,1 +1,1 @@
-web: gunicorn rapidcweb.wsgi --log-file -
+web: gunicorn raspberrythinktank.wsgi --log-file -
